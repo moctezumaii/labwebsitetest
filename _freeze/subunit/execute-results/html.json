@@ -1,0 +1,17 @@
+{
+  "hash": "4003653fac2686be202cf506b1872f55",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"UTK WFS Subunit\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "subunit_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

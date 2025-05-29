@@ -1,0 +1,29 @@
+---
+title: "Gus Engman"
+sortby: "1"
+subtitle: "Assistant Professor"
+image: Engman.jpg
+started: "Fall 2022"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://sites.google.com/site/gusengman/home
+      target: _blank
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=AqD7GCUAAAAJ&hl=en&oi=ao
+      target: _blank
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Dr. Gus Engman...
+
+## Anything else?

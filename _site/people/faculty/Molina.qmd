@@ -1,0 +1,59 @@
+---
+title: "Alejandro Molina-Moctezuma"
+sortby: "3"
+subtitle: "Assistant Research Professor"
+image: Molina.jpg
+started: "Fall 2023"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://molinamoctezuma.netlify.app/
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?hl=en&user=aAs3x3AAAAAJ
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/MolinaMoc
+    - icon: github
+      text: Github
+      href: https://github.com/moctezumaii
+    - icon: file-earmark-text
+      text: vitae
+      href: ./people/faculty/molina_cv.pdf
+    - icon: envelope
+      text: email
+      href: amolina6@utk.edu
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+I am a quantitative freshwater fisheries ecologist interested in the intersection of theoretical and applied science. My research includes movement and survival of fish species of commercial or biological importance, the development of quantitative methods to estimate survival, informing decisions using established methods for the estimation of survival, life history evolution, habitat use, habitat restoration, development of Shiny-Apps among other topics.
+
+## Interests
+
+-   Quantitative methods
+
+-   Population Ecology
+
+-   Fisheries Ecology
+
+-   Fish Movement and Survival
+
+-   Telemetry
+
+-   Life History Evolution
+
+-   Shiny Apps
+
+-   Conservation
+
+-   Fish passage
+
+-   Nutrients

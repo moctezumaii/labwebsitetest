@@ -1,0 +1,20 @@
+---
+title: "Faculty"
+toc: false
+listing: 
+  id: faculty-staff
+  contents: "people/faculty/*.qmd"
+  type: grid
+  image-height: 250px
+  grid-columns: 3
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  sort: sortby
+  field-display-names: 
+      started: "Started"
+---
+
+## Faculty
+
+::: {#faculty-staff}
+:::

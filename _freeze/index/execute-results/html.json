@@ -1,0 +1,15 @@
+{
+  "hash": "4233273ee675a47ccbf41ee6c8abe929",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\npagetitle: \"UTK FRG\"\ntitle: \"Welcome to the University of Tennessee Fisheries Research Group\"\n---\n\n\n::: lead\nWe are a fisheries research group based within the [School of Natural Resources](https://naturalresources.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder} at the [UTIA](https://utia.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder}. We work on all things fisheries, and aquatic ecology, management and conservation\n:::\n\n![The idea is for at some point have a picture of the extended UTK Fisheries Research Group. Or, a very cool picture!](img/Sturgeon.jpg){fig-align=\"center\"}\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

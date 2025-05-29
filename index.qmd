@@ -1,0 +1,14 @@
+---
+pagetitle: "UTK FRG"
+title: "Welcome to the University of Tennessee Fisheries Research Group"
+---
+
+::: lead
+We are a fisheries research group based within the [School of Natural Resources](https://naturalresources.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"} at the [UTIA](https://utia.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"}. We work on all things fisheries, and aquatic ecology, management and conservation
+:::
+
+![The idea is for at some point have a picture of the extended UTK Fisheries Research Group. Or, a very cool picture! This is just a placeholder](img/Sturgeon.jpg){fig-align="center"}
+
+```{=html}
+<iframe id="example1" src="https://molinamoctezumalab.shinyapps.io/shinyapps/" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
+```

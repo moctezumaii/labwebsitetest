@@ -1,0 +1,50 @@
+project:
+  type: website
+
+execute:
+    freeze: auto
+language:
+  search-box-placeholder: Search
+website:
+  search:
+    location: navbar
+    type: textbox
+  title: "UTK Fisheries Research Group"
+  navbar:
+    logo: img/logo.png
+    tools:
+      - icon: github
+        menu:
+          - text: Dr. Molina
+            href: https://github.com/moctezumaii
+            target: _blank
+      - icon: twitter
+        menu:
+          - text: Dr. Molina
+            href: x.com/molmoc
+            target: _blank
+          - text: Dr. Izzo
+            href: x.com/LisaKIzzo
+            target: _blank
+    left:
+      - text: "People"
+        menu:
+          - faculty.qmd
+          - students.qmd
+      - research.qmd
+      - teaching.qmd
+      - subunit.qmd
+      - opportunities.qmd
+  page-footer: "UTK Fisheries Research Group, School of Natural Resources, University of Tennessee"
+
+
+format:
+  html:
+    theme:
+      - united
+      - custom.scss
+    css: styles.css
+    toc: true
+
+editor: visual
+
