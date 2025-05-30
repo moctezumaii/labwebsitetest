@@ -17,7 +17,7 @@ about:
       text: Linkedin
       href: https://www.linkedin.com/in/alexandra-m-scott/
       target: _blank
-    - icon: leaf
+    - icon: record
       text: Orcid
       href: https://orcid.org/0009-0003-9701-3800
       target: _blank
