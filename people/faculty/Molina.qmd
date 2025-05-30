@@ -30,7 +30,7 @@ about:
       href: ./people/faculty/molina_cv.pdf
     - icon: envelope
       text: email
-      href: amolina6@utk.edu
+      href: mailto:amolina6@utk.edu
 ---
 
 ::: {#person-profile}
