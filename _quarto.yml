@@ -22,11 +22,14 @@ website:
       - icon: twitter
         menu:
           - text: Dr. Molina
-            href: x.com/molmoc
+            href: https://x.com/MolinaMoc
             target: _blank
           - text: Dr. Izzo
-            href: x.com/LisaKIzzo
+            href: https://x.com/LisaKIzzo
             target: _blank
+      - icon: instagram
+        href: https://instagram.com/utk_aquaticslab
+        target: _blank
     left:
       - text: "People"
         menu:
@@ -46,6 +49,7 @@ format:
       - custom.scss
     css: styles.css
     toc: true
+    toc-title: Explore
 
 editor: visual
 

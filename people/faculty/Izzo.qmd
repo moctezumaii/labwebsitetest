@@ -1,7 +1,7 @@
 ---
 title: "Lisa Izzo"
 sortby: "2"
-subtitle: "Assistant Professor"
+subtitle: "Movement Ecology and Habitat Use"
 image: Izzo.jpg
 started: "Spring 2024"
 toc: false

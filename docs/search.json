@@ -11,7 +11,7 @@
     "href": "students.html",
     "title": "Students and staff",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Britnnany Graham\n\n\nHabitat use and spawning of walleye\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -53,14 +53,14 @@
     "href": "faculty.html",
     "title": "Faculty",
     "section": "",
-    "text": "Assistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Assistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "faculty.html#faculty",
     "href": "faculty.html#faculty",
     "title": "Faculty",
     "section": "",
-    "text": "Assistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Assistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Welcome to the University of Tennessee Fisheries Research Group",
     "section": "",
-    "text": "We are a fisheries research group based within the School of Natural Resources at the UTIA. We work on all things fisheries, and aquatic ecology, management and conservation\n\n\n\n\nThe idea is for at some point have a picture of the extended UTK Fisheries Research Group. Or, a very cool picture! This is just a placeholder"
+    "text": "We are a fisheries research group based within the School of Natural Resources at the UTIA. We work on all things fisheries, and aquatic ecology, management and conservation\n\n\n\n\nThe idea is for at some point have a picture of the extended UTK Fisheries Research Group. Or, a very cool picture! This is just a placeholder\n\n\n\nCheck out the places where we have worked! 🗺️\n\n\n\nPeople\n\n\n\n\n\n\n\n\n\n\nGus Engman\n\n\nAssistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items\n\n\nGrad students go here"
   },
   {
     "objectID": "people/faculty/Engman.html",
@@ -131,5 +131,33 @@
     "title": "UTK WFS Subunit",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#test",
+    "href": "index.html#test",
+    "title": "Welcome to the University of Tennessee Fisheries Research Group",
+    "section": "Test",
+    "text": "Test"
+  },
+  {
+    "objectID": "people/students/Graham.html",
+    "href": "people/students/Graham.html",
+    "title": "Britnnany Graham",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     vitae"
+  },
+  {
+    "objectID": "people/students/Graham.html#biography",
+    "href": "people/students/Graham.html#biography",
+    "title": "Britnnany Graham",
+    "section": "Biography",
+    "text": "Biography\nI’m originally from Lexington, KY (Go Cats) 🐱! I graduated from the College of Charleston in Charleston, SC with my bachelor’s in marine biology. While in undergrad, I interned at Charleston Waterkeeper, an environmental non-profit focused on protecting and restoring Charleston’s waterways. From there I worked in Alaska as a Fisheries Observer shortly during the pandemic. Following observing, I worked at Southern Illinois University for two and a half years as a Researcher specifically looking at movement of invasive Silver Carp primarily on the Wabash River. Finally, I worked briefly with the US Geological Survey in Cook, WA focusing on the outmigration of Chinook Salmon following dam removals on the Lower Klamath River. \nCurrently, under the advisement of Dr. Lisa Izzo, my graduate project is documenting the habitat use and spawning of walleye in Watts Bar Reservoir in Tennessee."
+  },
+  {
+    "objectID": "people/students/Graham.html#interests",
+    "href": "people/students/Graham.html#interests",
+    "title": "Britnnany Graham",
+    "section": "Interests",
+    "text": "Interests\n\nMovement ecology 🐟\nTelemetry\nStatistical analysis and data visualization\nGIS and spatial analysis"
   }
 ]

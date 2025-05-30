@@ -6,5 +6,19 @@
       "/people/faculty/Izzo.html",
       "/people/faculty/Molina.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/people/faculty/Engman.html",
+      "/people/faculty/Izzo.html",
+      "/people/faculty/Molina.html"
+    ]
+  },
+  {
+    "listing": "/students.html",
+    "items": [
+      "/people/students/Graham.html"
+    ]
   }
 ]
