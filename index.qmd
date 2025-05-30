@@ -28,7 +28,7 @@ listing:
 We are a fisheries research group based within the [School of Natural Resources](https://naturalresources.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"} at the [UTIA](https://utia.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"}. We work on all things fisheries, and aquatic ecology, management and conservation
 :::
 
-![The idea is for at some point have a picture of the extended UTK Fisheries Research Group. Or, a very cool picture! This is just a placeholder](img/Sturgeon.jpg){fig-align="center"}
+![2025 SDAFS](img/labphoto.jpg){fig-align="center" width="4088"}
 
 ### Check out the places where we have worked! 🗺️
 
