@@ -1,5 +1,5 @@
 ---
-title: "Britnnany Graham"
+title: "Brittnany Graham"
 sortby: "1"
 subtitle: "Habitat use and spawning of walleye"
 image: Graham.jpg
@@ -16,6 +16,10 @@ about:
     - icon: file-earmark-text
       text: vitae
       href: ./people/students/GrahamCV.docx
+    - icon: archive
+      text: Project
+      href: https://brittnany-graham.quarto.pub/watts-bar-project/
+      target: _blank
 ---
 
 ::: {#person-profile}
