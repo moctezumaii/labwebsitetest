@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Molina-Moctezuma"
 sortby: "3"
-subtitle: "Assistant Research Professor"
+subtitle: "Modeling and survival"
 image: Molina.png
 started: "Fall 2023"
 toc: false

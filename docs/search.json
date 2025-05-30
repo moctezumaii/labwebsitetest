@@ -11,7 +11,7 @@
     "href": "students.html",
     "title": "Students and staff",
     "section": "",
-    "text": "Britnnany Graham\n\n\nHabitat use and spawning of walleye\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Habitat use and spawning of walleye\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHabitat Restoration\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -53,14 +53,14 @@
     "href": "faculty.html",
     "title": "Faculty",
     "section": "",
-    "text": "Assistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Urban streams\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "faculty.html#faculty",
     "href": "faculty.html#faculty",
     "title": "Faculty",
     "section": "",
-    "text": "Assistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Urban streams\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Welcome to the University of Tennessee Fisheries Research Group",
     "section": "",
-    "text": "We are a fisheries research group based within the School of Natural Resources at the UTIA. We work on all things fisheries, and aquatic ecology, management and conservation\n\n\n\n\nThe idea is for at some point have a picture of the extended UTK Fisheries Research Group. Or, a very cool picture! This is just a placeholder\n\n\n\nCheck out the places where we have worked! 🗺️\n\n\n\nPeople\n\n\n\n\n\n\n\n\n\n\nGus Engman\n\n\nAssistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nAssistant Research Professor\n\n\n\n\n\n\n\nNo matching items\n\n\nGrad students go here"
+    "text": "We are a fisheries research group based within the School of Natural Resources at the UTIA. We work on all things fisheries, and aquatic ecology, management and conservation"
   },
   {
     "objectID": "people/faculty/Engman.html",
@@ -159,5 +159,40 @@
     "title": "Britnnany Graham",
     "section": "Interests",
     "text": "Interests\n\nMovement ecology 🐟\nTelemetry\nStatistical analysis and data visualization\nGIS and spatial analysis"
+  },
+  {
+    "objectID": "students.html#students",
+    "href": "students.html#students",
+    "title": "Students and staff",
+    "section": "",
+    "text": "Habitat use and spawning of walleye\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHabitat Restoration\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#people",
+    "href": "index.html#people",
+    "title": "Welcome to the University of Tennessee Fisheries Research Group",
+    "section": "People",
+    "text": "People\n\nFaculty\n\n\n\n\n\n\n\n\n\n\nGus Engman\n\n\nUrban streams\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement Ecology and Habitat Use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nGraduate Students\n\n\n\n\n\n\n\n\n\n\nBritnnany Graham\n\n\nHabitat use and spawning of walleye\n\n\n\n\n\n\n\n\n\n\n\n\n\nLexie Scott\n\n\nHabitat Restoration\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/students/Scott.html",
+    "href": "people/students/Scott.html",
+    "title": "Lexie Scott",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Orcid"
+  },
+  {
+    "objectID": "people/students/Scott.html#biography",
+    "href": "people/students/Scott.html#biography",
+    "title": "Lexie Scott",
+    "section": "Biography",
+    "text": "Biography\nI am a master’s candidate studying how fish are using newly installed gradient-control passageways and microhabitat structures in Cub Creek, Tennessee, as part of a larger restoration and wetland mitigation project. I graduated from the University of Florida in 2024 with a degree in Natural Resource Conservation, where I completed a thesis focused on thermal habitat modeling in Florida rivers. I have also worked on the Lone Cabbage Oyster Reef restoration project in Cedar Key, Florida, as well as in education at the Florida Aquarium in Tampa, Florida."
+  },
+  {
+    "objectID": "people/students/Scott.html#interests",
+    "href": "people/students/Scott.html#interests",
+    "title": "Lexie Scott",
+    "section": "Interests",
+    "text": "Interests\n\nAquatic ecology 🐟\nConservation biology\nHabitat restoration\nMovement ecology\nClimate change"
   }
 ]

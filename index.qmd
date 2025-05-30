@@ -2,16 +2,26 @@
 pagetitle: "UTK FRG"
 title: "Welcome to the University of Tennessee Fisheries Research Group"
 listing: 
-  id: faculty-staff
-  contents: "people/faculty/*.qmd"
-  type: grid
-  image-height: 250px
-  grid-columns: 3
-  fields: [image, title, subtitle]
-  grid-item-align: center
-  sort: sortby
-  field-display-names: 
-      started: "Started"
+  - id: faculty-staff
+    contents: "people/faculty/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+        started: "Started"
+  - id: students
+    contents: "people/students/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+        started: "Started"
 ---
 
 ::: lead
@@ -26,9 +36,14 @@ We are a fisheries research group based within the [School of Natural Resources]
 <iframe id="example1" src="https://molinamoctezumalab.shinyapps.io/labmap//" style="border: black; width: 100%; height: 399px" frameborder="0"></iframe>
 ```
 
-### People
+## People
+
+### Faculty
 
 ::: {#faculty-staff}
 :::
 
-Grad students go here
+### Graduate Students
+
+::: {#students}
+:::

@@ -12,13 +12,16 @@
     "items": [
       "/people/faculty/Engman.html",
       "/people/faculty/Izzo.html",
-      "/people/faculty/Molina.html"
+      "/people/faculty/Molina.html",
+      "/people/students/Graham.html",
+      "/people/students/Scott.html"
     ]
   },
   {
     "listing": "/students.html",
     "items": [
-      "/people/students/Graham.html"
+      "/people/students/Graham.html",
+      "/people/students/Scott.html"
     ]
   }
 ]

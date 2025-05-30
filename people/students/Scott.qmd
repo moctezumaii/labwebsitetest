@@ -1,0 +1,43 @@
+---
+title: "Lexie Scott"
+sortby: "2"
+subtitle: "Habitat Restoration"
+image: Scott.jpg
+started: "Spring 2024"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/ecologywithlexie
+      target: _blank
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/alexandra-m-scott/
+      target: _blank
+    - icon: leaf
+      text: Orcid
+      href: https://orcid.org/0009-0003-9701-3800
+      target: _blank
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+I am a master’s candidate studying how fish are using newly installed gradient-control passageways and microhabitat structures in Cub Creek, Tennessee, as part of a larger restoration and wetland mitigation project. I graduated from the University of Florida in 2024 with a degree in Natural Resource Conservation, where I completed a thesis focused on thermal habitat modeling in Florida rivers. I have also worked on the Lone Cabbage Oyster Reef restoration project in Cedar Key, Florida, as well as in education at the Florida Aquarium in Tampa, Florida.
+
+## Interests
+
+-   Aquatic ecology 🐟
+
+-   Conservation biology
+
+-   Habitat restoration
+
+-   Movement ecology
+
+-   Climate change
