@@ -36,9 +36,14 @@ website:
           - faculty.qmd
           - students.qmd
       - research.qmd
-      - text: SNR 610
-        href: htpps://SNR610.com
-        target: _blank
+      - text: "Teaching"
+        menu:
+          - text: "SNR 610"
+            href: htpps://SNR610.com
+            target: _blank
+          - text: "ANSC/PLSC 571"
+            href: htpps://SNR571.com
+            target: _blank
       - subunit.qmd
       - opportunities.qmd
   page-footer: "UTK Fisheries Research Group, School of Natural Resources, University of Tennessee"
