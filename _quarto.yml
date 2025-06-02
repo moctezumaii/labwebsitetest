@@ -36,7 +36,9 @@ website:
           - faculty.qmd
           - students.qmd
       - research.qmd
-      - teaching.qmd
+      - text: SNR 610
+        href: htpps://SNR610.com
+        target: _blank
       - subunit.qmd
       - opportunities.qmd
   page-footer: "UTK Fisheries Research Group, School of Natural Resources, University of Tennessee"
