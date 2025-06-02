@@ -3,15 +3,8 @@
     "listing": "/students.html",
     "items": [
       "/people/students/Graham.html",
-      "/people/students/Scott.html"
-    ]
-  },
-  {
-    "listing": "/faculty.html",
-    "items": [
-      "/people/faculty/Engman.html",
-      "/people/faculty/Izzo.html",
-      "/people/faculty/Molina.html"
+      "/people/students/Scott.html",
+      "/people/students/Moses.html"
     ]
   },
   {
@@ -21,7 +14,16 @@
       "/people/faculty/Izzo.html",
       "/people/faculty/Molina.html",
       "/people/students/Graham.html",
-      "/people/students/Scott.html"
+      "/people/students/Scott.html",
+      "/people/students/Moses.html"
+    ]
+  },
+  {
+    "listing": "/faculty.html",
+    "items": [
+      "/people/faculty/Engman.html",
+      "/people/faculty/Izzo.html",
+      "/people/faculty/Molina.html"
     ]
   }
 ]
