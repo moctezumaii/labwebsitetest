@@ -12,6 +12,7 @@ listing:
    contents:
       - "research/*.qmd"
       - path: https://brittnany-graham.quarto.pub/watts-bar-project/
+        target: _blank
         image: img/Walleye.png
         title: Watts Bar Walleye Project
         subtitle: Brittnany Graham and Lisa Izzo
