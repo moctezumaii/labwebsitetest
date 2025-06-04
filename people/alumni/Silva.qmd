@@ -1,0 +1,25 @@
+---
+title: "Jeronimo Silva"
+sortby: "1"
+subtitle: "PhD - 2025"
+image: Silva.jpg
+started: "Spring 2024"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: Website
+      href: https://jeronimosilva.com
+      target: _blank
+---
+
+::: {#person-profile}
+:::
+
+## Interests
+
+-   Stream ecology
+
+-   One health

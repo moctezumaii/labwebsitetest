@@ -2,19 +2,33 @@
 title: "Students and staff"
 toc: false
 listing: 
-  id: students
-  contents: "people/students/*.qmd"
-  type: grid
-  image-height: 250px
-  grid-columns: 3
-  fields: [image, title, subtitle]
-  grid-item-align: center
-  sort: sortby
-  field-display-names: 
-      started: "Started"
+  - id: students
+    contents: "people/students/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+        started: "Started"
+  - id: alumni
+    contents: "people/alumni/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    field-display-names: 
+        started: "Started"
 ---
 
 ## Students
 
 ::: {#students}
+:::
+
+## Alumni
+
+::: {#alumni}
 :::
