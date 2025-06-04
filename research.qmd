@@ -1,9 +1,30 @@
 ---
 title: "Research"
+toc: false
+listing:
+   id: research
+   type: grid
+   image-height: 250px
+   grid-columns: 2
+   fields: [image, title, subtitle]
+   grid-item-align: center
+   sort: sortby
+   contents:
+      - "research/*.qmd"
+      - path: https://brittnany-graham.quarto.pub/watts-bar-project/
+        image: img/Walleye.png
+        title: Watts Bar Walleye Project
+        subtitle: Brittnany Graham and Lisa Izzo
+        date: "2025-05-20"
+   field-display-names: 
+        started: "Started"
 ---
 
-About this site
+## Our Research
 
-```{r}
-1 + 1
-```
+We work on fish and other stuff...
+
+## Current and past projects:
+
+::: {#research}
+:::

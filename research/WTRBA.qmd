@@ -1,0 +1,15 @@
+---
+title: "Response to Restoration Cub Creek"
+subtitle: "Lexie, Alejandro and Gus"
+image: Lexie.jpg
+started: "Spring 2024"
+toc: false
+about:
+  id: person-profile
+  template: trestles
+---
+
+## About project
+
+Some writeup about it. It is a fun project. Lexie will work on this
+:fish: 
