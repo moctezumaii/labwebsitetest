@@ -1,6 +1,13 @@
 ---
 pagetitle: "UTK FRG"
 title: "Welcome to the University of Tennessee Fisheries Research Group"
+other-links:
+    - text: UTIA
+      href: https://utia.tennessee.edu/
+      target: _blank
+    - text: SNR
+      href: https://naturalresources.tennessee.edu/
+      target: _blank
 listing: 
   - id: faculty-staff
     contents: "people/faculty/*.qmd"
