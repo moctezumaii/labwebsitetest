@@ -11,7 +11,7 @@ about:
   links:
     - icon: link
       text: Website
-      href: https://jeronimosilva.com
+      href: https://sites.google.com/tnlml.com/jeronimosilva/home
       target: _blank
 ---
 
