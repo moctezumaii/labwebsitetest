@@ -26,7 +26,7 @@ about:
 ::: {#person-profile}
 :::
 
-## Biography
+## About me
 
 I am a master’s candidate studying how fish are using newly installed gradient-control passageways and microhabitat structures in Cub Creek, Tennessee, as part of a larger restoration and wetland mitigation project. I graduated from the University of Florida in 2024 with a degree in Natural Resource Conservation, where I completed a thesis focused on thermal habitat modeling in Florida rivers. I have also worked on the Lone Cabbage Oyster Reef restoration project in Cedar Key, Florida, as well as in education at the Florida Aquarium in Tampa, Florida.
 

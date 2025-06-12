@@ -10,7 +10,7 @@ website:
   search:
     location: navbar
     type: textbox
-  title: "UTK Fisheries Research Group"
+  title: "Fisheries and Aquatic Conservation Ecology Lab"
   navbar:
     logo: img/logo.png
     tools:
@@ -39,14 +39,14 @@ website:
       - text: "Teaching"
         menu:
           - text: "SNR 610"
-            href: htpps://SNR610.com
+            href: https://moctezumaii.github.io/SNR610/
             target: _blank
           - text: "ANSC/PLSC 571"
-            href: htpps://SNR571.com
+            href: https://moctezumaii.github.io/SNR610/
             target: _blank
       - subunit.qmd
       - opportunities.qmd
-  page-footer: "UTK Fisheries Research Group, School of Natural Resources, University of Tennessee"
+  page-footer: "UTK Fisheries and Aquatic Conservation Ecology Lab, School of Natural Resources, University of Tennessee"
 
 
 format:

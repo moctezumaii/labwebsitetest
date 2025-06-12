@@ -26,7 +26,7 @@ about:
 ::: {#person-profile}
 :::
 
-## Biography
+## About me
 
 My research interests broadly focus on movement ecology and habitat use of fishes, and how that information can be used to assess and manage populations. I am also interested in understanding the thermal ecology of fishes across different systems and how that relates to future habitat availability under a changing climate. I often use telemetry (acoustic or radio) to address research questions, but integrate that technique with various other laboratory and field-based methods in fisheries science, including hydroacoustics, age and growth analysis, and conventional tagging. Through my research, I aim to directly address issues of importance to fisheries managers in the region. 
 

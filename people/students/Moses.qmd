@@ -22,7 +22,7 @@ about:
 ::: {#person-profile}
 :::
 
-## Biography
+## About me
 
 Caleb Moses is a graduate student at the University of Tennessee, Knoxville, where he is developing a comprehensive restoration plan for extirpated mussel species in Abrams Creek within the Great Smoky Mountains National Park. His research focuses on freshwater conservation biology, with particular emphasis on endangered mussel fauna and aquatic ecosystem restoration.
 
