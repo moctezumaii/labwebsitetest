@@ -1,5 +1,6 @@
 ---
 title: "Research"
+subtitle: "Research projects at the Fisheries and Aquatic Conservation Ecology Lab"
 toc: false
 listing:
    id: research
@@ -20,12 +21,6 @@ listing:
    field-display-names: 
         started: "Started"
 ---
-
-## Our Research
-
-We work on fish and other stuff...
-
-## Current and past projects:
 
 ::: {#research}
 :::

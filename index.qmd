@@ -1,6 +1,7 @@
 ---
 pagetitle: "FACE Lab"
-title: "Welcome to the UTK Fisheries and Aquatic Conservation Ecology Lab"
+title: "Fisheries and Aquatic Conservation Ecology Lab"
+subtitle: "The FACE Lab at the University of Tennessee"
 other-links:
     - text: UTIA
       href: https://utia.tennessee.edu/

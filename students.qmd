@@ -1,5 +1,6 @@
 ---
-title: "Students and staff"
+title: "Students, alumni, and staff"
+subtitle: "Fisheries and Aquatic Conservation Ecology Lab"
 toc: false
 listing: 
   - id: students

@@ -7,10 +7,11 @@ execute:
 language:
   search-box-placeholder: Search
 website:
+  favicon: img/logo.png
   search:
     location: navbar
     type: textbox
-  title: "Fisheries and Aquatic Conservation Ecology Lab"
+  title: "FACE Lab"
   navbar:
     logo: img/logo.png
     tools:
