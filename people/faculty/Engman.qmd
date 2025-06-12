@@ -1,7 +1,7 @@
 ---
 title: "Gus Engman"
 sortby: "1"
-subtitle: "Urban streams"
+subtitle: "Anthropogenic impacts to fisheries and aquatic ecology"
 image: Engman.jpg
 started: "Fall 2022"
 toc: false
@@ -24,6 +24,4 @@ about:
 
 ## Biography
 
-Dr. Gus Engman...
-
-## Anything else?
+People depend on rivers, lakes, and estuaries for essential ecosystem services like clean drinking water and high-protein foods. However, aquatic ecosystems are relatively poorly understood and under intense stress from human activities such as urbanization, water use, fishing, and climate change. I study how aquatic ecosystem functions and services, and animal communities and populations are shaped by natural and anthropogenic forces. My research seeks to find ways for healthy aquatic ecosystems and beneficial fisheries to persist in a human-dominated world. 

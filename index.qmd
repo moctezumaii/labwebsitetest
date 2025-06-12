@@ -1,6 +1,6 @@
 ---
 pagetitle: "UTK FRG"
-title: "Welcome to the University of Tennessee Fisheries Research Group"
+title: "Welcome to the UTK Fisheries and Aquatic Conservation Ecology Lab"
 other-links:
     - text: UTIA
       href: https://utia.tennessee.edu/
@@ -32,7 +32,7 @@ listing:
 ---
 
 ::: lead
-We are a fisheries research group based within the [School of Natural Resources](https://naturalresources.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"} at the [UTIA](https://utia.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"}. We work on all things fisheries, and aquatic ecology, management and conservation
+We are the UTK Fisheries and Aquatic Conservation Ecology Lab based within the [School of Natural Resources](https://naturalresources.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"} at the [UTIA](https://utia.tennessee.edu/){.text-primary .text-decoration-none .fw-bolder target="_blank"}. We work on all things fisheries, and aquatic ecology, management and conservation
 :::
 
 ![2025 SDAFS](img/labphoto.jpg){fig-align="center" width="4088"}
