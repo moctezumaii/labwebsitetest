@@ -1,5 +1,5 @@
 ---
-pagetitle: "UTK FRG"
+pagetitle: "FACE Lab"
 title: "Welcome to the UTK Fisheries and Aquatic Conservation Ecology Lab"
 other-links:
     - text: UTIA
