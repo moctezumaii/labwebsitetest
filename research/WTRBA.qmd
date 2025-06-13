@@ -7,6 +7,7 @@ toc: false
 about:
   id: person-profile
   template: trestles
+lightbox: true
 ---
 
 ## About project
@@ -16,3 +17,17 @@ Stream disturbance is common in West Tennessee, and decades of deforestation and
 Here at the UTK Fisheries and Aquatic Conservation Ecology Lab, we are partnering with the West Tennessee River Basin Authority to assess the efficacy of the Cub Creek stream rehabilitation project. The first aim of the project is to monitor fish movement through grade-control structures (designed to also function as fish passages) using radio frequency identification (RFID) technology.
 
 The second goal of the project is to characterize in-stream habitat and quantify habitat use by the fish community. By comparing rates of use of each habitat type to the amount available in the system, we can discern if fish are selecting for specific habitat types or features. This project will help inform future restoration efforts in small, warmwater agricultural streams in the Lower Mississippi River Basin and beyond."
+
+## Gallery
+
+::: {layout-style="masonry" layout-ncol="3"}
+![The team at Cub Creek](img/cubcreek1.png){group="new"}
+
+![Dollar Sunfish](img/cubcreek2.png){group="new"}
+
+
+![Antenna](img/cubcreek3.png){group="new"}
+
+
+
+:::
