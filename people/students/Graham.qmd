@@ -40,5 +40,3 @@ Currently, under the advisement of Dr. Lisa Izzo, my graduate project is documen
 -   Statistical analysis and data visualization
 
 -   GIS and spatial analysis
-
--   I like to crochet

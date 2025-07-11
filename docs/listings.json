@@ -5,7 +5,16 @@
       "/people/students/Graham.html",
       "/people/students/Scott.html",
       "/people/students/Moses.html",
+      "/people/students/Mason.html",
       "/people/alumni/Silva.html"
+    ]
+  },
+  {
+    "listing": "/faculty.html",
+    "items": [
+      "/people/faculty/Engman.html",
+      "/people/faculty/Izzo.html",
+      "/people/faculty/Molina.html"
     ]
   },
   {
@@ -16,15 +25,8 @@
       "/people/faculty/Molina.html",
       "/people/students/Graham.html",
       "/people/students/Scott.html",
-      "/people/students/Moses.html"
-    ]
-  },
-  {
-    "listing": "/faculty.html",
-    "items": [
-      "/people/faculty/Engman.html",
-      "/people/faculty/Izzo.html",
-      "/people/faculty/Molina.html"
+      "/people/students/Moses.html",
+      "/people/students/Mason.html"
     ]
   },
   {
