@@ -45,7 +45,6 @@ website:
           - text: "ANSC/PLSC 571"
             href: https://moctezumaii.github.io/SNR610/
             target: _blank
-      - subunit.qmd
       - opportunities.qmd
   page-footer: "UTK Fisheries and Aquatic Conservation Ecology Lab, School of Natural Resources, University of Tennessee"
 
