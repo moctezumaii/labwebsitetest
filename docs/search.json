@@ -49,165 +49,11 @@
     "text": "Gallery\n\n\n\n\n\n\n\n\nThe team at Cub Creek\n\n\n\n\n\n\n\nDollar Sunfish\n\n\n\n\n\n\n\nAntenna"
   },
   {
-    "objectID": "people/students/Scott.html",
-    "href": "people/students/Scott.html",
-    "title": "Lexie Scott",
-    "section": "",
-    "text": "Instagram\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Orcid"
-  },
-  {
-    "objectID": "people/students/Scott.html#about-me",
-    "href": "people/students/Scott.html#about-me",
-    "title": "Lexie Scott",
-    "section": "About me",
-    "text": "About me\nI am a master’s candidate studying how fish are using newly installed gradient-control passageways and microhabitat structures in Cub Creek, Tennessee, as part of a larger restoration and wetland mitigation project. I graduated from the University of Florida in 2024 with a degree in Natural Resource Conservation, where I completed a thesis focused on thermal habitat modeling in Florida rivers. I have also worked on the Lone Cabbage Oyster Reef restoration project in Cedar Key, Florida, as well as in education at the Florida Aquarium in Tampa, Florida."
-  },
-  {
-    "objectID": "people/students/Scott.html#interests",
-    "href": "people/students/Scott.html#interests",
-    "title": "Lexie Scott",
-    "section": "Interests",
-    "text": "Interests\n\nAquatic ecology 🐟\nConservation biology\nHabitat restoration\nMovement ecology\nClimate change"
-  },
-  {
-    "objectID": "people/students/Mason.html#about-me",
-    "href": "people/students/Mason.html#about-me",
-    "title": "Caleb Mason",
-    "section": "About me",
-    "text": "About me\nI’m an undergraduate student at the University of Tennessee working as a research technician on the Response to Restoration Cub Creek Project with graduate student Lexie Scott. I’m originally from Sevierville, TN, which gave me a strong connection to the Smokies and sparked my interest in fisheries and conservation work. In this role, I’ve also had the chance to assist with other projects both in the lab and out in the field. I’m an active member of UTK’s Student Chapter of The Wildlife and Fisheries Society. Previously, I worked as a Fisheries Intern with the Great Smoky Mountains National Park, where I focused on monitoring freshwater stream species, including the Southern Appalachian Brook Trout."
-  },
-  {
-    "objectID": "people/students/Mason.html#interests",
-    "href": "people/students/Mason.html#interests",
-    "title": "Caleb Mason",
-    "section": "Interests",
-    "text": "Interests\n\nHabitat Biodiversity\nConservation of Endangered Species\nAvian-Aquatic Species Interaction\nPublic Environmental Education"
-  },
-  {
-    "objectID": "people/faculty/Molina.html",
-    "href": "people/faculty/Molina.html",
-    "title": "Alejandro Molina-Moctezuma",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     vitae\n  \n  \n    \n     email"
-  },
-  {
-    "objectID": "people/faculty/Molina.html#about-me",
-    "href": "people/faculty/Molina.html#about-me",
-    "title": "Alejandro Molina-Moctezuma",
-    "section": "About me",
-    "text": "About me\nI am a quantitative freshwater fisheries ecologist interested in the intersection of theoretical and applied science. My research includes movement and survival of fish species of commercial or biological importance, the development of quantitative methods to estimate survival, informing decisions using established methods for the estimation of survival, life history evolution, habitat use, habitat restoration, development of Shiny-Apps among other topics."
-  },
-  {
-    "objectID": "people/faculty/Molina.html#interests",
-    "href": "people/faculty/Molina.html#interests",
-    "title": "Alejandro Molina-Moctezuma",
-    "section": "Interests",
-    "text": "Interests\n\nQuantitative methods\nPopulation Ecology\nFisheries Ecology\nFish Movement and Survival\nTelemetry\nLife History Evolution\nShiny Apps\nConservation\nFish passage\nNutrients"
-  },
-  {
-    "objectID": "people/faculty/Engman.html",
-    "href": "people/faculty/Engman.html",
-    "title": "Gus Engman",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar"
-  },
-  {
-    "objectID": "people/faculty/Engman.html#about-me",
-    "href": "people/faculty/Engman.html#about-me",
-    "title": "Gus Engman",
-    "section": "About me",
-    "text": "About me\nPeople depend on rivers, lakes, and estuaries for essential ecosystem services like clean drinking water and high-protein foods. However, aquatic ecosystems are relatively poorly understood and under intense stress from human activities such as urbanization, water use, fishing, and climate change. I study how aquatic ecosystem functions and services, and animal communities and populations are shaped by natural and anthropogenic forces. My research seeks to find ways for healthy aquatic ecosystems and beneficial fisheries to persist in a human-dominated world."
-  },
-  {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Opportunities",
-    "section": "",
-    "text": "None at this time"
-  },
-  {
-    "objectID": "faculty.html",
-    "href": "faculty.html",
-    "title": "Faculty",
-    "section": "",
-    "text": "Gus Engman\n\n\nAnthropogenic impacts to fisheries and aquatic ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement ecology and habitat use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fisheries and Aquatic Conservation Ecology Lab",
-    "section": "",
-    "text": "We are the UTK Fisheries and Aquatic Conservation Ecology Lab based within the School of Natural Resources at the UTIA. We work on all things fisheries, and aquatic ecology, management and conservation"
-  },
-  {
-    "objectID": "index.html#people",
-    "href": "index.html#people",
-    "title": "Fisheries and Aquatic Conservation Ecology Lab",
-    "section": "People",
-    "text": "People\n\nFaculty\n\n\n\n\n\n\n\n\n\n\nGus Engman\n\n\nAnthropogenic impacts to fisheries and aquatic ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement ecology and habitat use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nGraduate Students\n\n\n\n\n\n\n\n\n\n\nBrittnany Graham\n\n\nHabitat use and spawning of walleye\n\n\n\n\n\n\n\n\n\n\n\n\n\nLexie Scott\n\n\nHabitat restoration\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaleb Moses\n\n\nRestoration for extirpated mussel species in Abrams Creek\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaleb Mason\n\n\nUndergraduate Research Technician\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/alumni/Silva.html",
-    "href": "people/alumni/Silva.html",
-    "title": "Jeronimo Silva",
-    "section": "",
-    "text": "Website"
-  },
-  {
-    "objectID": "people/alumni/Silva.html#interests",
-    "href": "people/alumni/Silva.html#interests",
-    "title": "Jeronimo Silva",
-    "section": "Interests",
-    "text": "Interests\n\nStream ecology\nOne health"
-  },
-  {
-    "objectID": "people/faculty/Izzo.html",
-    "href": "people/faculty/Izzo.html",
-    "title": "Lisa Izzo",
-    "section": "",
-    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     Twitter"
-  },
-  {
-    "objectID": "people/faculty/Izzo.html#about-me",
-    "href": "people/faculty/Izzo.html#about-me",
-    "title": "Lisa Izzo",
-    "section": "About me",
-    "text": "About me\nMy research interests broadly focus on movement ecology and habitat use of fishes, and how that information can be used to assess and manage populations. I am also interested in understanding the thermal ecology of fishes across different systems and how that relates to future habitat availability under a changing climate. I often use telemetry (acoustic or radio) to address research questions, but integrate that technique with various other laboratory and field-based methods in fisheries science, including hydroacoustics, age and growth analysis, and conventional tagging. Through my research, I aim to directly address issues of importance to fisheries managers in the region."
-  },
-  {
-    "objectID": "people/faculty/Izzo.html#projects",
-    "href": "people/faculty/Izzo.html#projects",
-    "title": "Lisa Izzo",
-    "section": "Projects",
-    "text": "Projects\nWalleye in the Tennessee River - We will be using acoustic telemetry to track adult walleye in Watts Bar Reservoir. Through this project we will answer questions about movements, habitat use, and spawning site fidelity. Graduate Student: Brittnany Graham  \nAlligator gar in western Tennessee tributaries - We are working with the Tennessee Wildlife Resources Agency and the U.S. Fish and Wildlife Service to develop methods to investigate post-stocking survival and dispersal of alligator gar. We plan to scale this work up to using acoustic telemetry to address questions about alligator gar survival and dispersal that can be used to inform restoration programs for the species in Tennessee and throughout the Mississippi River basin."
-  },
-  {
-    "objectID": "people/students/Graham.html",
-    "href": "people/students/Graham.html",
-    "title": "Brittnany Graham",
-    "section": "",
-    "text": "Instagram\n  \n  \n    \n     vitae\n  \n  \n    \n     Project"
-  },
-  {
-    "objectID": "people/students/Graham.html#about-me",
-    "href": "people/students/Graham.html#about-me",
-    "title": "Brittnany Graham",
-    "section": "About me",
-    "text": "About me\nI’m originally from Lexington, KY (Go Cats) 🐱! I graduated from the College of Charleston in Charleston, SC with my bachelor’s in marine biology. While in undergrad, I interned at Charleston Waterkeeper, an environmental non-profit focused on protecting and restoring Charleston’s waterways. From there I worked in Alaska as a Fisheries Observer shortly during the pandemic. Following observing, I worked at Southern Illinois University for two and a half years as a Researcher specifically looking at movement of invasive Silver Carp primarily on the Wabash River. Finally, I worked briefly with the US Geological Survey in Cook, WA focusing on the outmigration of Chinook Salmon following dam removals on the Lower Klamath River. \nCurrently, under the advisement of Dr. Lisa Izzo, my graduate project is documenting the habitat use and spawning of walleye in Watts Bar Reservoir in Tennessee."
-  },
-  {
-    "objectID": "people/students/Graham.html#interests",
-    "href": "people/students/Graham.html#interests",
-    "title": "Brittnany Graham",
-    "section": "Interests",
-    "text": "Interests\n\nMovement ecology 🐟\nTelemetry\nStatistical analysis and data visualization\nGIS and spatial analysis"
   },
   {
     "objectID": "people/students/Moses.html",
@@ -231,18 +77,193 @@
     "text": "Interests\n\nConservation and ecology of freshwater mussels\nConservation and ecology of non-game fish\nAquatic ecosystem restoration\nCommunity-based conservation approaches\nConservation genetics\nEnvironmental policy\nSpecies-habitat relationships"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "people/students/Graham.html",
+    "href": "people/students/Graham.html",
+    "title": "Brittnany Graham",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     vitae\n  \n  \n    \n     Project"
+  },
+  {
+    "objectID": "people/students/Graham.html#about-me",
+    "href": "people/students/Graham.html#about-me",
+    "title": "Brittnany Graham",
+    "section": "About me",
+    "text": "About me\nI’m originally from Lexington, KY (Go Cats) 🐱! I graduated from the College of Charleston in Charleston, SC with my bachelor’s in marine biology. While in undergrad, I interned at Charleston Waterkeeper, an environmental non-profit focused on protecting and restoring Charleston’s waterways. From there I worked in Alaska as a Fisheries Observer shortly during the pandemic. Following observing, I worked at Southern Illinois University for two and a half years as a Researcher specifically looking at movement of invasive Silver Carp primarily on the Wabash River. Finally, I worked briefly with the US Geological Survey in Cook, WA focusing on the outmigration of Chinook Salmon following dam removals on the Lower Klamath River. \nCurrently, under the advisement of Dr. Lisa Izzo, my graduate project is documenting the habitat use and spawning of walleye in Watts Bar Reservoir in Tennessee."
+  },
+  {
+    "objectID": "people/students/Graham.html#interests",
+    "href": "people/students/Graham.html#interests",
+    "title": "Brittnany Graham",
+    "section": "Interests",
+    "text": "Interests\n\nMovement ecology 🐟\nTelemetry\nStatistical analysis and data visualization\nGIS and spatial analysis"
+  },
+  {
+    "objectID": "people/faculty/Izzo.html",
+    "href": "people/faculty/Izzo.html",
+    "title": "Lisa Izzo",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     Twitter"
+  },
+  {
+    "objectID": "people/faculty/Izzo.html#about-me",
+    "href": "people/faculty/Izzo.html#about-me",
+    "title": "Lisa Izzo",
+    "section": "About me",
+    "text": "About me\nMy research interests broadly focus on movement ecology and habitat use of fishes, and how that information can be used to assess and manage populations. I am also interested in understanding the thermal ecology of fishes across different systems and how that relates to future habitat availability under a changing climate. I often use telemetry (acoustic or radio) to address research questions, but integrate that technique with various other laboratory and field-based methods in fisheries science, including hydroacoustics, age and growth analysis, and conventional tagging. Through my research, I aim to directly address issues of importance to fisheries managers in the region."
+  },
+  {
+    "objectID": "people/faculty/Izzo.html#projects",
+    "href": "people/faculty/Izzo.html#projects",
+    "title": "Lisa Izzo",
+    "section": "Projects",
+    "text": "Projects\n\nWalleye in the Tennessee River - We will be using acoustic telemetry to track adult walleye in Watts Bar Reservoir. Through this project we will answer questions about movements, habitat use, and spawning site fidelity. Graduate Student: Brittnany Graham  \nAlligator gar in western Tennessee tributaries - We are working with the Tennessee Wildlife Resources Agency and the U.S. Fish and Wildlife Service to develop methods to investigate post-stocking survival and dispersal of alligator gar. We plan to scale this work up to using acoustic telemetry to address questions about alligator gar survival and dispersal that can be used to inform restoration programs for the species in Tennessee and throughout the Mississippi River basin. \nCitico Creek Dam Removal - Dr. Engman and I are collaborating with Dr. Anna Marshall in the Geography and Sustainability Department to study how different species of fish recolonize newly available river reaches after dam removals. We are using a combination of PIT tags and visible implant elastomer (VIE) marks to track movements of different darters, shiners, chubs, sunfishes, bass, and suckers in Citico Creek in Cherokee National Forest while Dr. Marshall collects detailed information on how the habitat is changing following the removal of the Lower Citico Dam. We hope the results of this work can be used to inform conservation planning around dam removals in the southeast, particularly in areas where the focal species are not highly migratory\nRestoration of Hardwood Bottomlands in west Tennessee - I am collaborating with Dr. Matt Gray (School of Natural Resources) and Dr. Andrea Ludwig (Biosystems Engineering and Soil Science) to collect baseline conditions on biological communities and hydrological features at a future stream and floodplain restoration site at the West Tennessee Research and Education Center. This project will document the fish, vegetation, amphibian, and bird community prior to restoration, and compare that information to other hardwood bottomland sites in various stages of recovery in west Tennessee. Graduate Student: Elena Grandbois."
+  },
+  {
+    "objectID": "people/alumni/Silva.html",
+    "href": "people/alumni/Silva.html",
+    "title": "Jeronimo Silva",
+    "section": "",
+    "text": "Website"
+  },
+  {
+    "objectID": "people/alumni/Silva.html#interests",
+    "href": "people/alumni/Silva.html#interests",
+    "title": "Jeronimo Silva",
+    "section": "Interests",
+    "text": "Interests\n\nStream ecology\nOne health"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fisheries and Aquatic Conservation Ecology Lab",
+    "section": "",
+    "text": "We are the UTK Fisheries and Aquatic Conservation Ecology Lab based within the School of Natural Resources at the UTIA. We work on all things fisheries, and aquatic ecology, management and conservation"
+  },
+  {
+    "objectID": "index.html#people",
+    "href": "index.html#people",
+    "title": "Fisheries and Aquatic Conservation Ecology Lab",
+    "section": "People",
+    "text": "People\n\nFaculty\n\n\n\n\n\n\n\n\n\n\nGus Engman\n\n\nAnthropogenic impacts to fisheries and aquatic ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement ecology and habitat use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nGraduate Students\n\n\n\n\n\n\n\n\n\n\nBrittnany Graham\n\n\nHabitat use and spawning of walleye\n\n\n\n\n\n\n\n\n\n\n\n\n\nLexie Scott\n\n\nHabitat restoration\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaleb Moses\n\n\nRestoration for extirpated mussel species in Abrams Creek\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaleb Mason\n\n\nUndergraduate Research Technician\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "faculty.html",
+    "href": "faculty.html",
+    "title": "Faculty",
+    "section": "",
+    "text": "Gus Engman\n\n\nAnthropogenic impacts to fisheries and aquatic ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Izzo\n\n\nMovement ecology and habitat use\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Molina-Moctezuma\n\n\nModeling and survival\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Opportunities",
+    "section": "",
+    "text": "None at this time"
+  },
+  {
+    "objectID": "people/faculty/Engman.html",
+    "href": "people/faculty/Engman.html",
+    "title": "Gus Engman",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar"
+  },
+  {
+    "objectID": "people/faculty/Engman.html#about-me",
+    "href": "people/faculty/Engman.html#about-me",
+    "title": "Gus Engman",
+    "section": "About me",
+    "text": "About me\nPeople depend on rivers, lakes, and estuaries for essential ecosystem services like clean drinking water and high-protein foods. However, aquatic ecosystems are relatively poorly understood and under intense stress from human activities such as urbanization, water use, fishing, and climate change. I study how aquatic ecosystem functions and services, and animal communities and populations are shaped by natural and anthropogenic forces. My research seeks to find ways for healthy aquatic ecosystems and beneficial fisheries to persist in a human-dominated world."
+  },
+  {
+    "objectID": "people/faculty/Molina.html",
+    "href": "people/faculty/Molina.html",
+    "title": "Alejandro Molina-Moctezuma",
+    "section": "",
+    "text": "website\n  \n  \n    \n     scholar\n  \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     vitae\n  \n  \n    \n     email"
+  },
+  {
+    "objectID": "people/faculty/Molina.html#about-me",
+    "href": "people/faculty/Molina.html#about-me",
+    "title": "Alejandro Molina-Moctezuma",
+    "section": "About me",
+    "text": "About me\nI am a quantitative freshwater fisheries ecologist interested in the intersection of theoretical and applied science. My research includes movement and survival of fish species of commercial or biological importance, the development of quantitative methods to estimate survival, informing decisions using established methods for the estimation of survival, life history evolution, habitat use, habitat restoration, development of Shiny-Apps among other topics."
+  },
+  {
+    "objectID": "people/faculty/Molina.html#interests",
+    "href": "people/faculty/Molina.html#interests",
+    "title": "Alejandro Molina-Moctezuma",
+    "section": "Interests",
+    "text": "Interests\n\nQuantitative methods\nPopulation Ecology\nFisheries Ecology\nFish Movement and Survival\nTelemetry\nLife History Evolution\nShiny Apps\nConservation\nFish passage\nNutrients"
+  },
+  {
+    "objectID": "people/students/Mason.html#about-me",
+    "href": "people/students/Mason.html#about-me",
+    "title": "Caleb Mason",
+    "section": "About me",
+    "text": "About me\nI’m an undergraduate student at the University of Tennessee working as a research technician on the Response to Restoration Cub Creek Project with graduate student Lexie Scott. I’m originally from Sevierville, TN, which gave me a strong connection to the Smokies and sparked my interest in fisheries and conservation work. In this role, I’ve also had the chance to assist with other projects both in the lab and out in the field. I’m an active member of UTK’s Student Chapter of The Wildlife and Fisheries Society. Previously, I worked as a Fisheries Intern with the Great Smoky Mountains National Park, where I focused on monitoring freshwater stream species, including the Southern Appalachian Brook Trout."
+  },
+  {
+    "objectID": "people/students/Mason.html#interests",
+    "href": "people/students/Mason.html#interests",
+    "title": "Caleb Mason",
+    "section": "Interests",
+    "text": "Interests\n\nHabitat Biodiversity\nConservation of Endangered Species\nAvian-Aquatic Species Interaction\nPublic Environmental Education"
+  },
+  {
+    "objectID": "people/students/Scott.html",
+    "href": "people/students/Scott.html",
+    "title": "Lexie Scott",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Orcid"
+  },
+  {
+    "objectID": "people/students/Scott.html#about-me",
+    "href": "people/students/Scott.html#about-me",
+    "title": "Lexie Scott",
+    "section": "About me",
+    "text": "About me\nI am a master’s candidate studying how fish are using newly installed gradient-control passageways and microhabitat structures in Cub Creek, Tennessee, as part of a larger restoration and wetland mitigation project. I graduated from the University of Florida in 2024 with a degree in Natural Resource Conservation, where I completed a thesis focused on thermal habitat modeling in Florida rivers. I have also worked on the Lone Cabbage Oyster Reef restoration project in Cedar Key, Florida, as well as in education at the Florida Aquarium in Tampa, Florida."
+  },
+  {
+    "objectID": "people/students/Scott.html#interests",
+    "href": "people/students/Scott.html#interests",
+    "title": "Lexie Scott",
+    "section": "Interests",
+    "text": "Interests\n\nAquatic ecology 🐟\nConservation biology\nHabitat restoration\nMovement ecology\nClimate change"
+  },
+  {
+    "objectID": "research/Citico.html",
+    "href": "research/Citico.html",
+    "title": "Citico Creek Dam Removal",
+    "section": "",
+    "text": "Dr. Izzo and Dr. Engman are collaborating with Dr. Anna Marshall in the Geography and Sustainability Department to study how different species of fish recolonize newly available river reaches after dam removals. We are using a combination of PIT tags and visible implant elastomer (VIE) marks to track movements of different darters, shiners, chubs, sunfishes, bass, and suckers in Citico Creek in Cherokee National Forest while Dr. Marshall collects detailed information on how the habitat is changing following the removal of the Lower Citico Dam. We hope the results of this work can be used to inform conservation planning around dam removals in the southeast, particularly in areas where the focal species are not highly migratory."
+  },
+  {
+    "objectID": "research/Citico.html#about-project",
+    "href": "research/Citico.html#about-project",
+    "title": "Citico Creek Dam Removal",
+    "section": "",
+    "text": "Dr. Izzo and Dr. Engman are collaborating with Dr. Anna Marshall in the Geography and Sustainability Department to study how different species of fish recolonize newly available river reaches after dam removals. We are using a combination of PIT tags and visible implant elastomer (VIE) marks to track movements of different darters, shiners, chubs, sunfishes, bass, and suckers in Citico Creek in Cherokee National Forest while Dr. Marshall collects detailed information on how the habitat is changing following the removal of the Lower Citico Dam. We hope the results of this work can be used to inform conservation planning around dam removals in the southeast, particularly in areas where the focal species are not highly migratory."
+  },
+  {
+    "objectID": "research/Citico.html#gallery",
+    "href": "research/Citico.html#gallery",
+    "title": "Citico Creek Dam Removal",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\n\n\n\n\n\nTagging fish\n\n\n\n\n\n\n\nOur Citico Creek office\n\n\n\n\n\n\n\nVIE tagging\n\n\n\n\n\n\n\n\n\nGreenside DarterDarter"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Response to Restoration Cub Creek\n\n\nLexie, Alejandro and Gus\n\n\n\n\n\n\n\n\n\n\n\n\n\nWatts Bar Walleye Project\n\n\nBrittnany Graham and Lisa Izzo\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Citico Creek Dam Removal\n\n\nLisa and Gus\n\n\n\n\n\n\n\n\n\n\n\n\n\nResponse to Restoration Cub Creek\n\n\nLexie, Alejandro and Gus\n\n\n\n\n\n\n\n\n\n\n\n\n\nWatts Bar Walleye Project\n\n\nBrittnany Graham and Lisa Izzo\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "subunit.html",

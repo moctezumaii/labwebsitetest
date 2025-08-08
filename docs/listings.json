@@ -10,14 +10,6 @@
     ]
   },
   {
-    "listing": "/faculty.html",
-    "items": [
-      "/people/faculty/Engman.html",
-      "/people/faculty/Izzo.html",
-      "/people/faculty/Molina.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/people/faculty/Engman.html",
@@ -30,8 +22,17 @@
     ]
   },
   {
+    "listing": "/faculty.html",
+    "items": [
+      "/people/faculty/Engman.html",
+      "/people/faculty/Izzo.html",
+      "/people/faculty/Molina.html"
+    ]
+  },
+  {
     "listing": "/research.html",
     "items": [
+      "/research/Citico.html",
       "/research/WTRBA.html"
     ]
   }

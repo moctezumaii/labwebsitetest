@@ -1,0 +1,29 @@
+---
+title: "Citico Creek Dam Removal"
+subtitle: "Lisa and Gus"
+image: imgcitico/Creek.jpg
+started: "Spring 2024"
+toc: false
+about:
+  id: person-profile
+  template: trestles
+lightbox: true
+---
+
+## About project
+
+Dr. Izzo and Dr. Engman are collaborating with Dr. Anna Marshall in the Geography and Sustainability Department to study how different species of fish recolonize newly available river reaches after dam removals. We are using a combination of PIT tags and visible implant elastomer (VIE) marks to track movements of different darters, shiners, chubs, sunfishes, bass, and suckers in Citico Creek in Cherokee National Forest while Dr. Marshall collects detailed information on how the habitat is changing following the removal of the Lower Citico Dam. We hope the results of this work can be used to inform conservation planning around dam removals in the southeast, particularly in areas where the focal species are not highly migratory. 
+
+## Gallery
+
+::: {layout-style="masonry" layout-ncol="3"}
+![Tagging fish](imgcitico/tagging.jpg){group="new"}
+
+![Our Citico Creek office](imgcitico/Creek.jpg){group="new"}
+
+![VIE tagging](imgcitico/tag1.jpg){group="new"}
+
+![Greenside DarterDarter](imgcitico/tagged1.jpg){group="new"}
+
+
+:::
