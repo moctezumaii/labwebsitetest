@@ -124,6 +124,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-under .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-under'] = new List('listing-under', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -263,7 +291,7 @@ window.Quarto = {
   <li><a href="#people" id="toc-people" class="nav-link" data-scroll-target="#people">People</a>
   <ul class="collapse">
   <li><a href="#faculty" id="toc-faculty" class="nav-link" data-scroll-target="#faculty">Faculty</a></li>
-  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
+  <li><a href="#students" id="toc-students" class="nav-link" data-scroll-target="#students">Students</a></li>
   </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="https://utia.tennessee.edu/" target="_blank"><i class="bi bi-link-45deg"></i>UTIA</a></li><li><a href="https://naturalresources.tennessee.edu/" target="_blank"><i class="bi bi-link-45deg"></i>SNR</a></li></ul></div></nav>
@@ -367,8 +395,8 @@ No matching items
 </div>
 </div>
 </section>
-<section id="graduate-students" class="level3">
-<h3 class="anchored" data-anchor-id="graduate-students">Graduate Students</h3>
+<section id="students" class="level3">
+<h3 class="anchored" data-anchor-id="students">Students</h3>
 <div id="listing-students" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1752589508614" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
@@ -422,11 +450,35 @@ Restoration for extirpated mussel species in Abrams Creek
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1752589508626" data-listing-reading-time-sort="1" data-listing-word-count-sort="136">
-<a href="./people/students/Mason.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1755631049899" data-listing-reading-time-sort="1" data-listing-word-count-sort="143">
+<a href="./people/students/Grandbois.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/students/Mason.HEIC" class="thumbnail-image card-img" style="height: 250px;">
+<img loading="lazy" src="./people/students/Elena.jpeg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Elena Grandbois
+</h5>
+<div class="card-subtitle listing-subtitle">
+Wetland restoration in West Tennessee
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<div id="listing-under" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1752589508626" data-listing-reading-time-sort="1" data-listing-word-count-sort="136">
+<a href="./people/students/under/Mason.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/students/under/Mason.HEIC" class="thumbnail-image card-img" style="height: 250px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">

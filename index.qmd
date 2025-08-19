@@ -30,6 +30,15 @@ listing:
     sort: sortby
     field-display-names: 
         started: "Started"
+  - id: under
+    contents: "people/students/under/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    field-display-names: 
+        started: "Started"
 ---
 
 ::: lead
@@ -51,7 +60,10 @@ We are the UTK Fisheries and Aquatic Conservation Ecology Lab based within the [
 ::: {#faculty-staff}
 :::
 
-### Graduate Students
+### Students
 
 ::: {#students}
+:::
+
+::: {#under}
 :::
