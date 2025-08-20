@@ -9,6 +9,9 @@ other-links:
     - text: SNR
       href: https://naturalresources.tennessee.edu/
       target: _blank
+    - text: UTK Wildlife and Fisheries Student Chapter
+      href: https://instagram.com/utkwfs
+      target: _blank
 listing: 
   - id: faculty-staff
     contents: "people/faculty/*.qmd"
