@@ -44,8 +44,8 @@ website:
           - text: "SNR 610"
             href: https://moctezumaii.github.io/SNR610/
             target: _blank
-          - text: "ANSC/PLSC 571"
-            href: https://moctezumaii.github.io/SNR610/
+          - text: "SNR 690"
+            href: https://moctezumaii.github.io/ContMethodsBook/
             target: _blank
       - opportunities.qmd
   page-footer: "UTK Fisheries and Aquatic Conservation Ecology Lab, School of Natural Resources, University of Tennessee"
