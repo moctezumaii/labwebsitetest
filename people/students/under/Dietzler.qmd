@@ -1,0 +1,28 @@
+---
+title: "Jarret Dietzler"
+sortby: "8"
+subtitle: "Undergraduate Research Technician"
+image: dietzler.jpg
+started: "Fall 2025"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+:::
+
+## About Me
+
+I'm a sophomore at the University of Tennessee majoring in wildlife and fisheries science, and I joined the lab in November of last year as a technician.
+I'm originally from Wisconsin and I spent most of my childhood hiking, fishing, and running around outside.
+Working with the FACE lab has provided me with an awesome opportunity to turn these interests into usable skills and apply them in the field in a way that leaves behind a positive impact. 
+
+## Interests
+
+-   Ecosystem restoration
+
+-   Non-game fish conservation
+
+-   Interactions between aquatic and terrestrial species

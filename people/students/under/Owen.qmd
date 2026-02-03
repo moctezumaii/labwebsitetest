@@ -1,0 +1,21 @@
+---
+title: "Marcus Owen"
+sortby: "6"
+subtitle: "Undergraduate Research Technician"
+image: owens.jpg
+started: "Spring 2026"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+:::
+
+## About Me
+
+Hi, my name is Marcus Owen .
+I am a Wildlife and Fisheries student with a concentration in fisheries, and I'm from Anderson County, Tennessee.
+I grew up on our state's great streams and lakes and now I hope to make them a part of my professional career.
+Currently I am completing an undergraduate research project VIE tagging in Cub Creek, and hope to use my time in the FACE lab to gain valuable experience in the fisheries field.

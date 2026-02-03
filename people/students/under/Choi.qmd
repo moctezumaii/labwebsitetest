@@ -1,0 +1,22 @@
+---
+title: "Kaitlyn Choi"
+sortby: "9"
+subtitle: "Undergraduate Research Technician"
+image: choi.jpeg
+started: "Fall 2025"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+:::
+
+## About Me
+
+I'm originally from Nolensville, TN and currently studying Wildlife and Fisheries Science with a management concentration.
+I am a research assistant for the habitat use and spawning for walleye project under Brittnany Graham.
+I hope to specialize in terrestrial or aquatic habitat management and concentration as my future career and hope to do more work abroad.
+I am a Herbert Ambassador and on the executive board for MANRRS which is an organization that promotes professional development and networking from striving students pursuing a career in agriculture, natural resources, and/or related sciences.
+After my Ichthyology course, I became interested with the fisheries world and pursued a role in research for a native species in Tennessee which landed me a position in the FACE lab.
