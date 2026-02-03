@@ -13,6 +13,16 @@ listing:
     sort: sortby
     field-display-names: 
         started: "Started"
+  - id: staff
+    contents: "people/staff/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+        started: "Started"
   - id: under
     contents: "people/students/under/*.qmd"
     type: grid
@@ -38,7 +48,11 @@ listing:
 ::: {#students}
 :::
 
-## Undergraduate Technicians
+## Staff
+::: {#staff}
+:::
+
+## Undergraduate Students
 
 ::: {#under}
 :::

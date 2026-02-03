@@ -1,0 +1,16 @@
+---
+title: "Kailee"
+sortby: "1"
+subtitle: "Fisheries Technician"
+image: Elena.jpeg
+started: "Spring 2024"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+:::
+
+## 
