@@ -99,6 +99,34 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-staff .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-staff'] = new List('listing-staff', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-students .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -291,7 +319,9 @@ window.Quarto = {
   <li><a href="#people" id="toc-people" class="nav-link" data-scroll-target="#people">People</a>
   <ul class="collapse">
   <li><a href="#faculty" id="toc-faculty" class="nav-link" data-scroll-target="#faculty">Faculty</a></li>
-  <li><a href="#students" id="toc-students" class="nav-link" data-scroll-target="#students">Students</a></li>
+  <li><a href="#staff" id="toc-staff" class="nav-link" data-scroll-target="#staff">Staff</a></li>
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
+  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students">Undergraduate Students</a></li>
   </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="https://utia.tennessee.edu/" target="_blank"><i class="bi bi-link-45deg"></i>UTIA</a></li><li><a href="https://naturalresources.tennessee.edu/" target="_blank"><i class="bi bi-link-45deg"></i>SNR</a></li><li><a href="https://instagram.com/utkwfs" target="_blank"><i class="bi bi-link-45deg"></i>UTK WFS</a></li></ul></div></nav>
@@ -395,8 +425,35 @@ No matching items
 </div>
 </div>
 </section>
-<section id="students" class="level3">
-<h3 class="anchored" data-anchor-id="students">Students</h3>
+<section id="staff" class="level3">
+<h3 class="anchored" data-anchor-id="staff">Staff</h3>
+<div id="listing-staff" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770152355954" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<a href="./people/staff/Kailee.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/staff/Elena.jpeg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kailee
+</h5>
+<div class="card-subtitle listing-subtitle">
+Fisheries Technician
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="graduate-students" class="level3">
+<h3 class="anchored" data-anchor-id="graduate-students">Graduate Students</h3>
 <div id="listing-students" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770144396890" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
@@ -433,24 +490,7 @@ Habitat restoration
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1752257474956" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<a href="./people/students/Moses.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./people/students/Moses.jpg" class="thumbnail-image card-img" style="height: 250px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Caleb Moses
-</h5>
-<div class="card-subtitle listing-subtitle">
-Restoration for extirpated mussel species in Abrams Creek
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1770144402039" data-listing-reading-time-sort="1" data-listing-word-count-sort="140">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1770144402039" data-listing-reading-time-sort="1" data-listing-word-count-sort="140">
 <a href="./people/students/Grandbois.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -472,6 +512,9 @@ Wetland restoration in West Tennessee
 No matching items
 </div>
 </div>
+</section>
+<section id="undergraduate-students" class="level3">
+<h3 class="anchored" data-anchor-id="undergraduate-students">Undergraduate Students</h3>
 <div id="listing-under" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770143978114" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
