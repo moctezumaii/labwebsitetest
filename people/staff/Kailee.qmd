@@ -1,9 +1,9 @@
 ---
-title: "Kailee"
+title: "Kailee Schulz"
 sortby: "1"
-subtitle: "Fisheries Technician"
-image: Elena.jpeg
-started: "Spring 2024"
+subtitle: "Lab Manager"
+image: kailee with walleye.jpg
+started: "Fall 2025"
 toc: false
 about:
   id: person-profile
@@ -13,4 +13,14 @@ about:
 ::: {#person-profile}
 :::
 
-## 
+## About Me
+
+I am a fish community ecologist with a strong interest in understanding how human activities impact fish communities and their associated habitats.
+I hold a bachelor’s degree in biology from Eastern Illinois University and a Master’s in Fisheries and Aquatic Sciences from the University of Florida, where my research focused on the effects of large-scale habitat restoration on fish communities, as well as juvenile sportfish growth and condition.
+
+Since graduating, I’ve worked with the U.S.
+Fish and Wildlife Service and the U.S.
+Geological Survey in California, Missouri, and Michigan, gaining experience across a wide range of research topics and field techniques.
+Most recently, I served as a Fish Biologist in Ann Arbor, Michigan, where I assessed the biomass and habitat associations of the invasive round goby.
+
+In my current role as Lab Manager, I’m excited to broaden my experience and have the opportunity to study the diverse fish and mussel communities in Tennessee rivers, streams, and creeks.
