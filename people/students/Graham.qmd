@@ -42,6 +42,6 @@ Currently, under the advisement of Dr. Lisa Izzo, my graduate project is documen
 
 - Telemetry
 
-- Statistical analysis and data visualization
+- Statistical analysis and data visualization 📊
 
-- GIS and spatial analysis
+- GIS and spatial analysis 🗺️
