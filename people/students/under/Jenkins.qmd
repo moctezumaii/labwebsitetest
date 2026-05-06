@@ -1,0 +1,20 @@
+---
+title: "Belle Jenkins"
+sortby: "5"
+subtitle: "Undergraduate Research Technician"
+image: jenkins.jpg
+started: "Fall 2025"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+:::
+
+## About Me
+
+I am currently a senior studying Wildlife and Fisheries Management.
+Since my freshman year, I have actively volunteered with various agencies and the aquatics lab, which has fueled my passion for fisheries and conservation.
+As the current Fisheries President of the Wildlife and Fisheries Society, I have the privilege of providing other students with the same valuable opportunities that have shaped my own experience.
