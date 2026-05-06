@@ -1,6 +1,6 @@
 ---
 title: "Kailee Schulz"
-sortby: "1"
+sortby: "5"
 subtitle: "Lab Manager"
 image: kailee with walleye.jpg
 started: "Fall 2025"
