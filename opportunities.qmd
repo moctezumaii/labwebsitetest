@@ -4,50 +4,58 @@ title: "Opportunities"
 
 ## Graduate Assistantship
 
-### *Evaluating success in aquatic connectivity restorations* 
+### *Lake Sturgeon Movements & Spawning in the Tennessee River*
 
-**Dr. Augustin Engman and Dr. Lisa Izzo**
+**Dr. Lisa Izzo**
 
-We are accepting applications for a M.S. or PhD graduate student research assistant that would develop a thesis or dissertation evaluating aquatic animal movements and the effectiveness of restorations of connectivity in stream ecosystems.
+We are accepting applications for a M.S. graduate student research assistant. The student’s thesis work will focus on understanding movements of adult lake sturgeon in the Tennessee River using acoustic telemetry, with a particular emphasis on locating potential spawning areas and documenting successful spawning via egg and/or larval drift sampling. This collaborative project will give the student the opportunity to work closely with project partners including the Tennessee Wildlife Resources Agency (TWRA), Tennessee Valley Authority (TVA), and others. 
 
 ::: callout-important
-Review of applications will begin on March 25^th^, 2026 and new applications will not be accepted after April 7^th^, 2026.
+Applications are due September 7th and review will begin immediately after. Successful candidate will apply formally to the UTK graduate school following the internal application process.
 :::
 
 #### Duties
 
-In addition to classes and other requirements of the M.S. in Wildlife and Fisheries Science or the PhD in Natural resources program, the student will complete teaching assistant duties, lead their own comprehensive research project, and assist on other research projects. The objectives of the project that the student will address some or all of the following:
+In addition to classes and other requirements of the M.S. in Wildlife and Fisheries Science, the primary duties of the student will include
 
-1.   Characterizing changes in stream animal assemblages, habitat, and the spatial distribution of animals in response to connectivity restorations, including dam removals and aquatic organism passage (AOP) measures at dams and road-stream crossings
-2.  Measuring the dispersal capacity of select stream animals
-3.  Investigating the role of physical habitat characteristics, species life history, movement capacity, and the location and magnitude of potential source populations on the likelihood that species will recolonize an area in response to aquatic connectivity restoration
+1.  Surgical tagging and active tracking of adult lake sturgeon 
+2.  Maintenance of a stationary acoustic receiver array
+3.  Study design and deployment of various gears to sample sturgeon eggs and larvae
+4.  Data management and analysis
+5.  Presentations to project partners and at regional/national conferences
+6.  Writing of a final thesis, at least one manuscript for submission to a peer-reviewed journal, and reports to project funders
 
-This assistantship will involve extensive and intensive field work, to be conducted in Tennessee and other locations where aquatic connectivity restorations have recently been completed or are ongoing/planned. Field research activities will involve sampling mobile stream organisms (primarily fishes) with multiple gears (i.e., backpack and/or boat electrofishing, seine, snorkeling, various traps etc.), implantation of passive integrated transponder (PIT) tags and marking with visual implant elastomer (VIE), operation of PIT tag arrays and/or portable antennas and may involve extensive travel and overnight stays at/near the field site locations. Lab and office duties will include data and literature reviews, equipment maintenance and construction, statistical analysis, and writing peer-reviewed publications and technical reports.
+The selected applicant will have the opportunity to develop and investigate hypotheses and address objectives of interest within the context of the project. Field work will take place at large river/reservoir sites, so trailering, launching, driving, and working on boats is required. Field work may take place at irregular hours, especially larval sampling.   
 
 ::: callout-note
 ## Qualifications
 
-Successful master’s degree applicants will have a B.S. degree in Biology, Ecology, Fisheries and Wildlife Science, or a closely related field, and PhD applicants are expected to hold an M.S. in one of the fields listed above. Applicants must meet all other qualifications for admission to the UTK School of Natural Resources [Master's](https://naturalresources.tennessee.edu/masters-program/) or [PhD program](https://naturalresources.tennessee.edu/doctoral-program/). Applicants must have a strong desire to work in the field and laboratory and are expected to publish their research findings in peer-reviewed journals and present at professional conferences. Previous experience in aquatic field research, use of PIT tags and VIE marking techniques, data analysis using statistical software, and data management skills are preferred. The student must also possess a valid driver's license. Successful candidates will also have demonstrated the ability to manage multiple competing tasks for their time (e.g., writing, data collection, coursework), excellent abilities to work in a team setting, are goal oriented and self-directed.
+Successful applicants must have a Bachelor’s degree in Natural Resources, Ecology, Wildlife Science/Management, Fisheries Science/Management, or a closely related field, and meet all other qualifications for admission to the School of Natural Resources Master’s Program (https://naturalresources.tennessee.edu/masters-program/). Please note that GRE scores are optional for admission. Applicants should have an interest in aquatic research and fisheries management, and a strong desire to learn new skills through the graduate school process. The successful candidate must possess a valid driver’s license and be able to lead field work independently. Prior experience in aquatic field work (particularly on boats), minor boat maintenance, acoustic telemetry equipment, and/or data analysis and management in statistical software is preferred but not required. 
 :::
 
 ::: callout-note
-## Funding and timeline
+## Salary and Benefits
 
-Guaranteed financial support is available for 2 years for a Master’s student or 3 years for a PhD student, beginning in August of 2026. Financial support includes a stipend, tuition, and insurance
+$37,000/year stipend for 3 years, coverage for tuition, and health insurance benefits. The student will be responsible for paying graduate student fees. 
 :::
 
 ::: callout-note
 ## To apply
 
-Please submit the following to Dr. Augustin Engman (aengman\@utk.edu) and Dr. Lisa Izzo (lizzo1\@utk.edu):
+Please submit the following to Dr. Lisa Izzo (lizzo1\@utk.edu):
 
-1\) Personal statement of research interests and career goals
+1\) Personal statement of research interests and career goals (one page)
 
-2\) Resume or curriculum vitae
+2\) Curriculum Vitae
 
-3\) Transcripts (unofficial is OK)
+3\) Unofficial Transcripts
 
 4\) Contact information for three references
+:::
+
+::: callout-note
+## Start Date
+November 1, 2026 preferred, January 2027 at the latest (Contingent on funding timeline) 
 :::
 
 ## Volunteer Sign-Up Form
