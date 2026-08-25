@@ -1,6 +1,6 @@
 ---
 title: "Response to Restoration Cub Creek"
-subtitle: "Lexie, Alejandro and Gus"
+subtitle: "Lexie Scott, Dr. Molina and Dr. Engman"
 image: Lexie.jpg
 started: "Spring 2024"
 toc: false
@@ -25,9 +25,5 @@ The second goal of the project is to characterize in-stream habitat and quantify
 
 ![Dollar Sunfish](img/cubcreek2.png){group="new"}
 
-
 ![Antenna](img/cubcreek3.png){group="new"}
-
-
-
 :::

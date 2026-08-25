@@ -1,6 +1,6 @@
 ---
 title: "Citico Creek Dam Removal"
-subtitle: "Lisa and Gus"
+subtitle: "Dr. Izzo and Dr. Engman"
 image: imgcitico/Creek.jpg
 started: "Spring 2024"
 toc: false
@@ -24,6 +24,4 @@ Dr. Izzo and Dr. Engman are collaborating with Dr. Anna Marshall in the Geograph
 ![VIE tagging](imgcitico/tag1.jpg){group="new"}
 
 ![Greenside DarterDarter](imgcitico/tagged1.jpg){group="new"}
-
-
 :::
