@@ -1,0 +1,34 @@
+---
+title: "Jenn Dunn"
+sortby: "4"
+subtitle: "Citico Creek"
+image: Dunn.jpg
+started: "Fall 2026"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+::: {#person-profile}
+:::
+
+## About me
+
+I’m originally from the Metro Atlanta area in GA, but I found my love for aquatic biology in North Carolina while attending Western Carolina University (Go Catamounts!). I received a Bachelors in Natural Resource Conservation and Management, and focused my studies on aquatic science. After my graduation I worked as an aquatic wildlife diversity technician with the North Carolina Wildlife Resource Commission, working to protect non game fish, mussels and crayfish in the foothills of NC. This gave me the experience to work as the South Fork Watershed Manager with the Catawba Riverkeeper. The Catawba Riverkeeper is an environmental nonprofit that focuses on increasing water quality in the Catawba Wateree basin. Here I was able to coordinate and complete several restoration projects, and I’m excited to get a chance to study important restoration work in Tennessee. 
+
+
+My research, under the advice of Dr Izzo and Dr Engman, is focused on the effects of dam removal on the habitat and movement of the fish of Citico Creek.  
+
+## Interests
+
+- Fish ecology 🐟
+
+- Habitat Relationships
+
+- Restoration Ecology
+
+- Mussel Ecology
+
+- Conservation Ecology

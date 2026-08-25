@@ -4,6 +4,7 @@
     "items": [
       "/people/students/Graham.html",
       "/people/students/Scott.html",
+      "/people/students/Dunn.html",
       "/people/students/Grandbois.html",
       "/people/staff/Kailee.html",
       "/people/students/under/Dietzler.html",
@@ -11,6 +12,14 @@
       "/people/students/under/Owen.html",
       "/people/alumni/Moses.html",
       "/people/alumni/Silva.html"
+    ]
+  },
+  {
+    "listing": "/faculty.html",
+    "items": [
+      "/people/faculty/Engman.html",
+      "/people/faculty/Izzo.html",
+      "/people/faculty/Molina.html"
     ]
   },
   {
@@ -22,18 +31,11 @@
       "/people/staff/Kailee.html",
       "/people/students/Graham.html",
       "/people/students/Scott.html",
+      "/people/students/Dunn.html",
       "/people/students/Grandbois.html",
       "/people/students/under/Dietzler.html",
       "/people/students/under/Choi.html",
       "/people/students/under/Owen.html"
-    ]
-  },
-  {
-    "listing": "/faculty.html",
-    "items": [
-      "/people/faculty/Engman.html",
-      "/people/faculty/Izzo.html",
-      "/people/faculty/Molina.html"
     ]
   },
   {
