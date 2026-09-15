@@ -73,11 +73,6 @@ We are the UTK Fisheries and Aquatic Conservation Ecology Lab based within the [
 ::: {#faculty-staff}
 :::
 
-### Staff
-
-::: {#staff}
-:::
-
 ### Graduate Students
 
 ::: {#students}
