@@ -4,58 +4,42 @@ title: "Opportunities"
 
 ## Graduate Assistantship
 
-### *Lake Sturgeon Movements & Spawning in the Tennessee River*
+### *Aquatic Organism Passage (AOP) at Culverts in Tennessee*
 
 **Dr. Lisa Izzo**
 
-We are accepting applications for a M.S. graduate student research assistant. The student’s thesis work will focus on understanding movements of adult lake sturgeon in the Tennessee River using acoustic telemetry, with a particular emphasis on locating potential spawning areas and documenting successful spawning via egg and/or larval drift sampling. This collaborative project will give the student the opportunity to work closely with project partners including the Tennessee Wildlife Resources Agency (TWRA), Tennessee Valley Authority (TVA), and others. 
+Dr. Lisa Izzo (Fisheries and Aquatic Conservation Ecology Lab) in the School of Natural Resources at the University of Tennessee, Knoxville is seeking applicants for a M.S. student in Wildlife and Fisheries Science. The student’s thesis work, funded through the Tennessee Department of Transportation, will focus on monitoring culverts that have been recently upgraded with Aquatic Organism Passage (AOP) measures to determine if and how different species are moving through them over time. This is a collaborative project where the graduate student will also work with a students and co-PIs in the Civil and Environmental Engineering Department at UTK to understand these movements in relation to hydraulic stability of the culvert over time. 
 
 ::: callout-important
-Applications are due September 7th and review will begin immediately after. Successful candidate will apply formally to the UTK graduate school following the internal application process.
+## Due Date
+Applications are due October 18th and review will begin immediately after. Successful candidate will apply formally to the UTK graduate school following the internal application process.
 :::
 
 #### Duties
 
-In addition to classes and other requirements of the M.S. in Wildlife and Fisheries Science, the primary duties of the student will include
-
-1.  Surgical tagging and active tracking of adult lake sturgeon 
-2.  Maintenance of a stationary acoustic receiver array
-3.  Study design and deployment of various gears to sample sturgeon eggs and larvae
-4.  Data management and analysis
-5.  Presentations to project partners and at regional/national conferences
-6.  Writing of a final thesis, at least one manuscript for submission to a peer-reviewed journal, and reports to project funders
-
-The selected applicant will have the opportunity to develop and investigate hypotheses and address objectives of interest within the context of the project. Field work will take place at large river/reservoir sites, so trailering, launching, driving, and working on boats is required. Field work may take place at irregular hours, especially larval sampling.   
+In addition to course requirements of the M.S. in Wildlife and Fisheries Science program, primary duties of the student will include (1) sampling fish via electrofishing (or other methods) and tagging a variety of species using visible implant elastomer (VIE) tags or PIT tags; (2) assisting the engineering team with their data collection; (3) study design for monitoring culverts for AOP; (4) data management and analysis; (5) presentations to project partners and at regional/national conferences; and (6) writing of a final thesis, at least one manuscript for submission to a peer-reviewed journal, and reports to the project funder. The selected applicant will have the opportunity to develop and investigate hypotheses and address objectives of interest within the context of the project. Field work will take place across the state of Tennessee, so overnight travel during certain sampling periods is required. 
 
 ::: callout-note
 ## Qualifications
 
-Successful applicants must have a Bachelor’s degree in Natural Resources, Ecology, Wildlife Science/Management, Fisheries Science/Management, or a closely related field, and meet all other qualifications for admission to the School of Natural Resources Master’s Program (https://naturalresources.tennessee.edu/masters-program/). Please note that GRE scores are optional for admission. Applicants should have an interest in aquatic research and fisheries management, and a strong desire to learn new skills through the graduate school process. The successful candidate must possess a valid driver’s license and be able to lead field work independently. Prior experience in aquatic field work (particularly on boats), minor boat maintenance, acoustic telemetry equipment, and/or data analysis and management in statistical software is preferred but not required. 
+Successful applicants must have a B.S. degree in Natural Resources, Ecology, Fisheries Science/Management, or a closely related field, and meet all other qualifications for admission to the School of Natural Resources Master’s Program (https://naturalresources.tennessee.edu/masters-program/). Please note that GRE scores are optional for admission. Applicants should have an interest in aquatic research and fisheries management, and a strong desire to learn new skills through the graduate school process. The successful candidate must possess a valid driver’s license and be able to lead field work independently. Prior experience in aquatic field work (particularly sampling in small streams and identification of southeastern fishes) is preferred but not required. 
 :::
 
 ::: callout-note
 ## Salary and Benefits
 
-$37,000/year stipend for 3 years, coverage for tuition, and health insurance benefits. The student will be responsible for paying graduate student fees. 
+$37,000/year stipend for 2 years, coverage for tuition, and health insurance benefits. The student will be responsible for paying graduate student fees. 
 :::
 
 ::: callout-note
 ## To apply
 
-Please submit the following to Dr. Lisa Izzo (lizzo1\@utk.edu):
-
-1\) Personal statement of research interests and career goals (one page)
-
-2\) Curriculum Vitae
-
-3\) Unofficial Transcripts
-
-4\) Contact information for three references
+Please email (1) a one-page statement of research interests and career goals, (2) a CV, (3) unofficial transcripts, and (4) contact information for three references to Dr. Lisa Izzo `paste0(lizzo1, "@utk.edu")` with a subject line of MS Application Culvert AOP and your last name. Applications are due October 18th and review will begin immediately after. Successful candidate will apply formally to the UTK graduate school following the internal application process.
 :::
 
 ::: callout-note
 ## Start Date
-November 1, 2026 preferred, January 2027 at the latest (Contingent on funding timeline) 
+January 2027
 :::
 
 ## Volunteer Sign-Up Form
